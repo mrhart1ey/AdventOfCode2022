@@ -1,6 +1,7 @@
 {
     "scripts": {
-      "tsc": "tsc -w"
+      "tsc": "tsc -w",
+      "run": "node dist/main.js"
     },
     "devDependencies": {
       "@types/node": "18.7.0",
