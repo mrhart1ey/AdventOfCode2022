@@ -6,5 +6,6 @@ import { answer as day5Answer } from "./day5";
 import { answer as day6Answer } from "./day6";
 import { answer as day7Answer } from "./day7";
 import { answer as day8Answer } from "./day8";
+import { answer as day9Answer } from "./day9";
 
-console.dir(day8Answer(), { depth: null, colors: true, maxArrayLength: null });
+console.dir(day9Answer(), { depth: null, colors: true, maxArrayLength: null });
